@@ -13,3 +13,5 @@ This is a study purpose branch to save design pattern c# examples. Inside the ma
 - **Structural**
   - Adapter
     - _Allows objects with incompatible interfaces to collaborate._
+  - Bridge
+    - _Lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other._
